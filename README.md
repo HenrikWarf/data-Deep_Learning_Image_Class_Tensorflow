@@ -7,11 +7,12 @@ As a final project of my Udacity Nanodegree Program I decided to go a bit deeper
 * Step 2: Data Agumentation
 * Step 3: Create a CNN to Classify Dog Breeds
 * Step 4: Use a CNN to Classify Dog Breeds - Using Transfer Learning
-#The data
+
+# The data
 
 The data is downloaded from a Kaggle challenge but originates from Stanford and includes 120 different dog breeds within the over 20.000 images. For my work I will use about half of the available pictures (~10.000).
 
-#My Goals
+# My Goals
 
 Get an understanding of Tensorflow as a deep learning library
 Explore different options of data preperation for deep learning with Tensorflow
