@@ -1,12 +1,15 @@
 # Image Classification - Capstone Project
 ### Background
 
-As a final project of my Udacity Nanodegree Program I decided to go a bit deeper into Deep Learning and go through an exercise within Image Classification. As Udacity has a prepared project with Dog Breed classification as an option I decided to do my classification project within dog breeds as well. This said. I have not followed the prepared project that Udacity provided but instead structured my own way of doing it.
+As a final project of my Udacity Nanodegree Program I decided to go a bit deeper into Deep Learning and go through an exercise within Image Classification. As Udacity has a prepared project with Dog Breed classification as an option I decided to do my classification project within dog breeds as well. That said. I have not followed the prepared project and instead created my own project from scratch. I did this as I wanted to learn Tensorflow a bit deeper and also handle all the data preparation aspects of the project as well. I have written a seperate Medium post going through this project and you can find that article here.
 
 * Step 1: Load and prepare data
-* Step 2: Data Agumentation
-* Step 3: Create a CNN to Classify Dog Breeds
-* Step 4: Use a CNN to Classify Dog Breeds - Using Transfer Learning
+* Step 2: Create a CNN to Classify Dog Breeds
+* Step 3: Use a CNN to Classify Dog Breeds - Using Transfer Learning
+* Step 4: Data Agumentation
+* Step 5: Training new CNN after Data Augmentation
+* Step 6: Save model to use in application
+* Step 7: Discussion & Conclusions
 
 ### The data
 
